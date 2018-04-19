@@ -1,0 +1,1 @@
+Memory Matching Game is a simple card matching game. The player flips one card and then flips another card. If the cards match, they stay revealed. If not, the cards flip back over. The player must reveal all card pairs to win. 
